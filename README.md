@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @kkop061019
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 안녕하세요! 개발자를 꿈꾸는 [유찬민]입니다. 👋
 
-<!---
-kkop061019/kkop061019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🎓 About Me
+- 🏫 **University:** 경북대학교 글로벌소프트웨어융합전공 1학년 재학 중
+- 🌱 **Currently Learning:** Python, C, Data Structures
+- 🥅 **Goals:** 꾸준히 커밋하고 기록하는 개발자가 되는 것
+
+---
+
+### 🛠️ Tech Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=gotham" alt="my stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=gotham" alt="top langs" />
+</div>
+
+---
+
+### 📫 Contact
+- 📧 Email: [ycm2454@gmail.com]
