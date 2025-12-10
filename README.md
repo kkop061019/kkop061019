@@ -12,19 +12,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkop061019&show_icons=true&theme=gotham" alt="my stats" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkop061019&layout=compact&theme=gotham" alt="top langs" />
-</div>
-![My Stats](https://github-readme-stats.vercel.app/api?username=kkop061019&show_icons=true&theme=gotham)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkop061019&layout=compact&theme=gotham)
----
-
 ### 📫 Contact
 - 📧 Email: [ycm2454@gmail.com]
