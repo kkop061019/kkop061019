@@ -14,13 +14,13 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=gotham" alt="my stats" />
+  <img src="https://github-readme-stats.vercel.app/api?kkop061019=YOUR_GITHUB_ID&show_icons=true&theme=gotham" alt="my stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=gotham" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?kkop061019=YOUR_GITHUB_ID&layout=compact&theme=gotham" alt="top langs" />
 </div>
 
 ---
